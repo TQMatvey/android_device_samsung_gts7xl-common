@@ -1,3 +1,6 @@
+vendor/lib/libsnap_vndk.so
+vendor/lib64/libsnap_vndk.so
+
 # ADSPRPC
 vendor/bin/adsprpcd
 vendor/bin/cdsprpcd
